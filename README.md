@@ -9,9 +9,14 @@ Primeira aula do curso, falando sobre as vantagens(aumento de produtividade, foc
 
 https://start.spring.io/ - O site para a criação do projeto
 
-Comando para subir o server 
+###### Comando para subir o server (Se você estiver no Linux)
 ```
 ./mvnw spring-boot:run
 ```
 
+###### E esse é o resultado da primeira aula
+![ ](https://github.com/LUCASRENAA/Introducao_ao_framework_Spring_Boot/blob/main/imagens/aula1.png)
+
+
 ![ ](https://stories.freepiklabs.com/storage/22811/programming-bro-2608.png)
+
